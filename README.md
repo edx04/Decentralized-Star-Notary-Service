@@ -4,7 +4,12 @@
 ### ToDo
 This Starter Code has already implemented the functionalities you implemented in the StarNotary (Version 2) exercise, and have comments in all the files you need to implement your tasks.
 
+Your ERC-721 Token Name  Cat Token
+Your ERC-721 Token Symbol  CAT
+ “Token Address” on the Rinkeby Network : 0xEE141adB7d5cC5B03769e57791Ea78e3292926b3
 
+Truffle v5.5.16 
+openzeppelin/contracts": "^4.5.0
 
 ### Dependencies
 For this project, you will need to have:
